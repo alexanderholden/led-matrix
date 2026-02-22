@@ -72,9 +72,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "gerber/")
 		)
 	)
 	(net 0 "")
@@ -27113,15 +27113,27 @@
 		)
 	)
 	(gr_rect
-		(start 71.5 33.5)
-		(end 155.5 83.5)
+		(start 70 33)
+		(end 156.5 85.5)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
 		(fill no)
 		(layer "Edge.Cuts")
-		(uuid "d5937e29-bb0c-4532-a99f-4b297092fbec")
+		(uuid "79189d41-fe5c-44df-9007-50a32ee8a5f7")
+	)
+	(gr_text "Alexander Holden\nStudent id: 14264982"
+		(at 138 82 0)
+		(layer "F.SilkS")
+		(uuid "02e7f2b8-3948-4403-874e-61ab2980c17c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
 	)
 	(via
 		(at 73.46375 71.879)
