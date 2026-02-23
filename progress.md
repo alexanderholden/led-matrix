@@ -5,5 +5,5 @@
 - I have sent the PCB off to manufacturing and will probably get it back in 2-3 days
 - Next stage is to get LED driver ICs/shift registers/decade counters
 
-<img width="1083" height="604" alt="output-onlinepngtools(1)" src="https://github.com/user-attachments/assets/10900ec7-6e95-4ce5-94ad-5f63e7cda311" />
+<img width="1083" height="604" alt="output-onlinepngtools(3)" src="https://github.com/user-attachments/assets/50e9a034-17de-4d54-8a29-185d009133b8" />
 
