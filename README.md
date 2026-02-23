@@ -1,3 +1,3 @@
-# led-matrix
+# LED matrix sign
 
-ultimate goal is to make it an led sign that is wifi enabled, rgb with many more pixels
+- Wi-Fi enabled, RGB LED matrix sign
