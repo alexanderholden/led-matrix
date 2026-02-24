@@ -113,7 +113,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "01056252-5c54-46b8-9784-42b3638ba859")
-		(at 115.38125 35.9625)
+		(at 144.37 65.5775)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D10"
@@ -319,7 +319,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "02b7d8f1-26b8-43ee-b981-cdc95aa146a3")
-		(at 101.40875 50.9535)
+		(at 130.3975 80.5685)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D55"
@@ -525,7 +525,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "062f302d-7bdc-48af-9912-a2a0df4dc252")
-		(at 134.01125 60.9475)
+		(at 163 90.5625)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D94"
@@ -731,7 +731,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "0bebe8b2-4282-4006-8392-997363a06a18")
-		(at 129.35375 55.9505)
+		(at 158.3425 85.5655)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D77"
@@ -937,7 +937,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "0c0f9a2d-d3eb-4101-b35b-8a01d6695aef")
-		(at 78.12125 40.9595)
+		(at 107.11 70.5745)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D18"
@@ -1143,7 +1143,7 @@
 	(footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "0d31d408-7dd6-48a6-b3bd-0040c6d1d13c")
-		(at 150.42 35)
+		(at 179.40875 64.615)
 		(descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R8"
@@ -1318,7 +1318,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "0d424885-828a-43b4-bb12-5c555fc0267b")
-		(at 92.09375 55.9505)
+		(at 121.0825 85.5655)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D69"
@@ -1524,7 +1524,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "0d7975cc-b053-4b9e-878d-2c1c64ba2530")
-		(at 143.32625 35.9625)
+		(at 172.315 65.5775)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D16"
@@ -1730,7 +1730,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "0eecc128-c5ec-4ca2-bce6-b49972c407a2")
-		(at 129.35375 45.9565)
+		(at 158.3425 75.5715)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D45"
@@ -1936,7 +1936,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "0f20e116-50a5-4838-b7b5-1d13a8e41f75")
-		(at 120.03875 35.9625)
+		(at 149.0275 65.5775)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D11"
@@ -2142,7 +2142,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "11e5102e-0e61-441b-9aeb-1055061a123f")
-		(at 96.75125 70.9415)
+		(at 125.74 100.5565)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D118"
@@ -2348,7 +2348,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "126528cf-80c1-4f07-99d0-407f5e75110f")
-		(at 124.69625 40.9595)
+		(at 153.685 70.5745)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D28"
@@ -2554,7 +2554,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "135836db-2463-4b3e-803d-8004eb385c54")
-		(at 129.35375 70.9415)
+		(at 158.3425 100.5565)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D125"
@@ -2760,7 +2760,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "156f2b5d-a886-4983-8a37-6c2cfb3313ed")
-		(at 96.75125 35.9625)
+		(at 125.74 65.5775)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D6"
@@ -2966,7 +2966,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "167b702d-361c-43d0-bfab-b8cbf5bfecaf")
-		(at 78.12125 70.9415)
+		(at 107.11 100.5565)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D114"
@@ -3172,7 +3172,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "1d18fb40-c498-4192-ab05-b8e20748ff7b")
-		(at 115.38125 60.9475)
+		(at 144.37 90.5625)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D90"
@@ -3378,7 +3378,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "20bc1219-2322-4ae5-a0b6-3e5c37ac1c8c")
-		(at 129.35375 65.9445)
+		(at 158.3425 95.5595)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D109"
@@ -3584,7 +3584,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "2276c1f5-8a3c-488d-8cff-d21482dcd0c0")
-		(at 101.40875 55.9505)
+		(at 130.3975 85.5655)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D71"
@@ -3790,7 +3790,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "2281f343-626a-487c-aa1b-dc8d439a9ab6")
-		(at 124.69625 35.9625)
+		(at 153.685 65.5775)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D12"
@@ -3996,7 +3996,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "2628744a-2077-4a90-b3cf-81294358d12c")
-		(at 120.03875 40.9595)
+		(at 149.0275 70.5745)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D27"
@@ -4202,7 +4202,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "262e6318-da76-4ef1-a3ea-f44c979ce24d")
-		(at 110.72375 70.9415)
+		(at 139.7125 100.5565)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D121"
@@ -4408,7 +4408,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "28399fe7-81b8-4672-883f-0ae19cdc515c")
-		(at 96.75125 40.9595)
+		(at 125.74 70.5745)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D22"
@@ -4614,7 +4614,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "283b4927-c9fc-4a8c-a584-f000f3dc9070")
-		(at 87.43625 50.9535)
+		(at 116.425 80.5685)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D52"
@@ -4820,7 +4820,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "2906566d-31a5-4ff1-93c3-10468a2408a1")
-		(at 87.43625 35.9625)
+		(at 116.425 65.5775)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D4"
@@ -5026,7 +5026,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "29d00782-fe29-47f1-ad81-01dd5bf04430")
-		(at 73.46375 40.9595)
+		(at 102.4525 70.5745)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D17"
@@ -5232,7 +5232,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "2b0e0175-a2ec-4965-9333-64be053e0889")
-		(at 124.69625 70.9415)
+		(at 153.685 100.5565)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D124"
@@ -5438,7 +5438,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "2e87a508-71fb-4a4d-8de7-a1d4f4f5c02d")
-		(at 115.38125 55.9505)
+		(at 144.37 85.5655)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D74"
@@ -5644,7 +5644,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "32714189-cd36-4e09-a780-9ad872a051ac")
-		(at 106.06625 40.9595)
+		(at 135.055 70.5745)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D24"
@@ -5850,7 +5850,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "35209fec-d9ce-4091-9803-5a15e146706e")
-		(at 73.46375 70.9415)
+		(at 102.4525 100.5565)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D113"
@@ -6056,7 +6056,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "35b5ae26-f7fa-45c3-bf9e-605e526ad6bd")
-		(at 115.38125 65.9445)
+		(at 144.37 95.5595)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D106"
@@ -6262,7 +6262,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "35ecff72-bb98-4771-83dd-30fdb8769ee9")
-		(at 120.03875 65.9445)
+		(at 149.0275 95.5595)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D107"
@@ -6468,7 +6468,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "364ea0ca-94cd-41a3-a70f-63f12228f2d0")
-		(at 96.75125 60.9475)
+		(at 125.74 90.5625)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D86"
@@ -6674,7 +6674,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "3a6526d1-dc41-4b30-bef9-25a86bf730bc")
-		(at 110.72375 50.9535)
+		(at 139.7125 80.5685)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D57"
@@ -6880,7 +6880,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "3a9df10e-84c7-4732-a466-45edab4bd977")
-		(at 87.43625 40.9595)
+		(at 116.425 70.5745)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D20"
@@ -7086,7 +7086,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "3c427e57-76e2-4d13-923d-1d298cc30d4f")
-		(at 115.38125 70.9415)
+		(at 144.37 100.5565)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D122"
@@ -7292,7 +7292,7 @@
 	(footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "3f38aa93-b49b-4db1-a675-8cfc18a8aee8")
-		(at 150.42 40)
+		(at 179.40875 69.615)
 		(descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R7"
@@ -7467,7 +7467,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "3ff3d99b-5aaa-4b36-9f48-894d720329ee")
-		(at 101.40875 35.9625)
+		(at 130.3975 65.5775)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D7"
@@ -7673,7 +7673,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "40b524a5-5a11-42ed-8c70-2d35239ded53")
-		(at 110.72375 60.9475)
+		(at 139.7125 90.5625)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D89"
@@ -7879,7 +7879,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "417df941-5e29-4fc2-96fe-c955a090bc8d")
-		(at 92.09375 35.9625)
+		(at 121.0825 65.5775)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D5"
@@ -8085,7 +8085,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "43f5e71f-aa15-47f6-8839-014cca5b2505")
-		(at 78.12125 60.9475)
+		(at 107.11 90.5625)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D82"
@@ -8291,7 +8291,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "46867903-3292-4cd2-a7ae-21a3750824b7")
-		(at 124.69625 45.9565)
+		(at 153.685 75.5715)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D44"
@@ -8497,7 +8497,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "4b5ece6e-977c-4a12-8f6d-dc2ae609f1a8")
-		(at 73.46375 60.9475)
+		(at 102.4525 90.5625)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D81"
@@ -8703,7 +8703,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "4d1dd94e-323b-4fb8-baa4-c36e247050cd")
-		(at 78.12125 50.9535)
+		(at 107.11 80.5685)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D50"
@@ -8909,7 +8909,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "4df39974-999f-4e75-bd8b-c7764764b774")
-		(at 143.32625 70.9415)
+		(at 172.315 100.5565)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D128"
@@ -9115,7 +9115,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "4e00bc6c-e4a8-402d-95b0-acd3da7dd631")
-		(at 106.06625 35.9625)
+		(at 135.055 65.5775)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D8"
@@ -9321,7 +9321,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "52b2a53b-8e9e-4bfc-8a43-1d54f01cf5c7")
-		(at 96.75125 50.9535)
+		(at 125.74 80.5685)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D54"
@@ -9527,7 +9527,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "54be4f95-fb0e-41d4-975b-44eb0f6236ae")
-		(at 101.40875 70.9415)
+		(at 130.3975 100.5565)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D119"
@@ -9733,7 +9733,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "58c4b0f1-2d3b-4612-950a-b249939a6e96")
-		(at 124.69625 55.9505)
+		(at 153.685 85.5655)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D76"
@@ -9939,7 +9939,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "5aed0ac6-c00e-4a15-bbf3-0058deecceb0")
-		(at 82.77875 60.9475)
+		(at 111.7675 90.5625)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D83"
@@ -10145,7 +10145,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "5b74a908-53f1-45c5-8847-73836efef1dc")
-		(at 138.66875 60.9475)
+		(at 167.6575 90.5625)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D95"
@@ -10351,7 +10351,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "5bb5490b-3cbb-4b7b-b565-5b2b54416db3")
-		(at 138.66875 50.9535)
+		(at 167.6575 80.5685)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D63"
@@ -10557,7 +10557,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "5d2e5cc8-9d5d-4d3e-95eb-c4ff80d03e5e")
-		(at 106.06625 70.9415)
+		(at 135.055 100.5565)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D120"
@@ -10763,7 +10763,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "5fd0d755-60bd-4390-9adf-7a091cd1ce19")
-		(at 129.35375 50.9535)
+		(at 158.3425 80.5685)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D61"
@@ -10969,7 +10969,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "6214d45a-9825-4007-883b-aa9f857c38d6")
-		(at 92.09375 50.9535)
+		(at 121.0825 80.5685)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D53"
@@ -11175,7 +11175,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "633ed430-65f6-4e14-a127-29cb81cb3968")
-		(at 106.06625 65.9445)
+		(at 135.055 95.5595)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D104"
@@ -11381,7 +11381,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "640f8b70-95ba-4b50-801e-60b28e2630a9")
-		(at 78.12125 55.9505)
+		(at 107.11 85.5655)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D66"
@@ -11587,7 +11587,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "644905b8-8b59-4cad-85b4-1e9e2f984017")
-		(at 120.03875 60.9475)
+		(at 149.0275 90.5625)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D91"
@@ -11793,7 +11793,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "66d4f7d3-3225-4546-8054-af2938d74c6c")
-		(at 87.43625 45.9565)
+		(at 116.425 75.5715)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D36"
@@ -11999,7 +11999,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "677e145c-4bf9-4175-8f5c-d83ba2a64d9b")
-		(at 120.03875 70.9415)
+		(at 149.0275 100.5565)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D123"
@@ -12205,7 +12205,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "6b777c7b-9bd0-48aa-9270-bf432d6bd50b")
-		(at 82.77875 65.9445)
+		(at 111.7675 95.5595)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D99"
@@ -12411,7 +12411,7 @@
 	(footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "6b894d70-0368-4230-b058-060393c549d0")
-		(at 150.42 50)
+		(at 179.40875 79.615)
 		(descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R5"
@@ -12586,7 +12586,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "7462a9c0-fe7d-43e0-9556-ab7b7da38892")
-		(at 87.43625 70.9415)
+		(at 116.425 100.5565)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D116"
@@ -12792,7 +12792,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "74e7a638-e35e-4d48-b6ea-14565e9cbb1b")
-		(at 134.01125 40.9595)
+		(at 163 70.5745)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D30"
@@ -12998,7 +12998,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "751e32f0-79be-49ed-8513-825bd54b16cd")
-		(at 87.43625 55.9505)
+		(at 116.425 85.5655)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D68"
@@ -13204,7 +13204,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "77f7e44e-891e-4755-bead-f32358228465")
-		(at 138.66875 40.9595)
+		(at 167.6575 70.5745)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D31"
@@ -13410,7 +13410,7 @@
 	(footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "7927b131-ac8b-4994-aff8-6912fe2d2262")
-		(at 150.42 64.5)
+		(at 179.40875 94.115)
 		(descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R2"
@@ -13585,7 +13585,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "7acfbbd8-c3c4-4730-9008-240104c8847b")
-		(at 110.72375 65.9445)
+		(at 139.7125 95.5595)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D105"
@@ -13791,7 +13791,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "7d2bee4d-9491-4103-bacb-f7cebf736127")
-		(at 106.06625 60.9475)
+		(at 135.055 90.5625)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D88"
@@ -13997,7 +13997,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "7d75f0aa-9da4-4062-a99a-047cd6dd542a")
-		(at 143.32625 55.9505)
+		(at 172.315 85.5655)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D80"
@@ -14203,7 +14203,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "7ea271e9-ab23-4f6f-8f9d-0e70390da8c9")
-		(at 138.66875 45.9565)
+		(at 167.6575 75.5715)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D47"
@@ -14409,7 +14409,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "802909bd-d581-45c5-82d3-3153465cddab")
-		(at 138.66875 55.9505)
+		(at 167.6575 85.5655)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D79"
@@ -14615,7 +14615,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "803d84fb-b7e9-4cc2-a82d-c66a73281190")
-		(at 124.69625 65.9445)
+		(at 153.685 95.5595)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D108"
@@ -14821,7 +14821,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "83a3dbe7-93df-4b7d-b588-626a924ba897")
-		(at 115.38125 50.9535)
+		(at 144.37 80.5685)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D58"
@@ -15027,7 +15027,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "851f1aa0-b924-4419-abbf-9b65337146fe")
-		(at 134.01125 50.9535)
+		(at 163 80.5685)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D62"
@@ -15233,7 +15233,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "85aaa1df-0882-44b7-b924-d3cc5d3774e1")
-		(at 143.32625 40.9595)
+		(at 172.315 70.5745)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D32"
@@ -15439,7 +15439,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "865dae26-6c46-404c-85d8-5764635a0a36")
-		(at 96.75125 65.9445)
+		(at 125.74 95.5595)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D102"
@@ -15645,7 +15645,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "86d22545-c9ea-4378-98f0-4e1e3ffa40b6")
-		(at 129.35375 35.9625)
+		(at 158.3425 65.5775)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D13"
@@ -15851,7 +15851,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "887c7697-635d-4ac0-8dd5-29a95a9632cd")
-		(at 82.77875 45.9565)
+		(at 111.7675 75.5715)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D35"
@@ -16057,7 +16057,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "8915139d-d51f-414f-af4f-c8de8cf4bb73")
-		(at 73.46375 50.9535)
+		(at 102.4525 80.5685)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D49"
@@ -16263,7 +16263,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "8ddd1625-fcb0-4dbf-824c-85bd6346ca43")
-		(at 101.40875 65.9445)
+		(at 130.3975 95.5595)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D103"
@@ -16469,7 +16469,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "8de4219c-c27e-49ba-b4b8-81ca65c8beb6")
-		(at 82.77875 35.9625)
+		(at 111.7675 65.5775)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D3"
@@ -16675,7 +16675,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "8e7b18bc-9fa6-4861-a8dc-a6ed7be86dc6")
-		(at 92.09375 45.9565)
+		(at 121.0825 75.5715)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D37"
@@ -16881,7 +16881,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "8ea6093c-3843-4dfc-9156-b85cf1441991")
-		(at 115.38125 45.9565)
+		(at 144.37 75.5715)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D42"
@@ -17087,7 +17087,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "9273ed45-f4df-49d9-961a-459063954834")
-		(at 106.06625 50.9535)
+		(at 135.055 80.5685)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D56"
@@ -17293,7 +17293,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "927df8e6-8f39-45dc-b8fa-5ab93422e9b9")
-		(at 115.38125 40.9595)
+		(at 144.37 70.5745)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D26"
@@ -17499,7 +17499,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "92f42303-a1ef-4fe1-8908-126099fd3b6c")
-		(at 101.40875 40.9595)
+		(at 130.3975 70.5745)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D23"
@@ -17705,7 +17705,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "9360a8af-1312-420a-81f0-19802f256d2a")
-		(at 138.66875 65.9445)
+		(at 167.6575 95.5595)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D111"
@@ -17911,7 +17911,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "94aab715-6399-439c-80d6-6cf21cfabca2")
-		(at 82.77875 50.9535)
+		(at 111.7675 80.5685)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D51"
@@ -18117,7 +18117,7 @@
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "9593c0ed-a74c-4826-8643-9a104fb99a5d")
-		(at 90.44 81 90)
+		(at 119.42875 110.615 90)
 		(descr "Through hole straight pin header, 1x16, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x16 2.54mm single row")
 		(property "Reference" "U2"
@@ -18479,7 +18479,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "95c55724-b0ba-48ee-8515-1616daff9a6f")
-		(at 106.06625 55.9505)
+		(at 135.055 85.5655)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D72"
@@ -18685,7 +18685,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "969d29ef-dcaa-473d-b066-ff545584a41f")
-		(at 110.72375 40.9595)
+		(at 139.7125 70.5745)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D25"
@@ -18891,7 +18891,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "987f72ff-cca0-4f62-828e-e65a7d5fef43")
-		(at 87.43625 65.9445)
+		(at 116.425 95.5595)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D100"
@@ -19097,7 +19097,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "98eb7e5f-4f28-4257-933f-a2ece6ef3ffc")
-		(at 134.01125 45.9565)
+		(at 163 75.5715)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D46"
@@ -19303,7 +19303,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "9918622c-de04-48dd-8ae8-88144239b2fd")
-		(at 138.66875 70.9415)
+		(at 167.6575 100.5565)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D127"
@@ -19509,7 +19509,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "9ad16871-1f08-40f0-9a34-09da62bb2d73")
-		(at 110.72375 45.9565)
+		(at 139.7125 75.5715)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D41"
@@ -19715,7 +19715,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "9cb14912-3934-45a5-b18a-e1a2aaaaec80")
-		(at 73.46375 35.9625)
+		(at 102.4525 65.5775)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D1"
@@ -19921,7 +19921,7 @@
 	(footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "9fe59601-331e-40a4-9f3c-bd9e9f45f8ad")
-		(at 150.42 60)
+		(at 179.40875 89.615)
 		(descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R3"
@@ -20096,7 +20096,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "a057176a-2f28-4291-8a45-4d2e6dc7614c")
-		(at 124.69625 50.9535)
+		(at 153.685 80.5685)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D60"
@@ -20302,7 +20302,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "a0edd058-2f9c-4277-a1ec-ae6cbc1f445a")
-		(at 92.09375 65.9445)
+		(at 121.0825 95.5595)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D101"
@@ -20508,7 +20508,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "a7c82800-9304-46d0-be1e-a642967bc0f9")
-		(at 129.35375 40.9595)
+		(at 158.3425 70.5745)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D29"
@@ -20714,7 +20714,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "aa29ee78-2514-478f-a6a0-b955f60b4499")
-		(at 120.03875 45.9565)
+		(at 149.0275 75.5715)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D43"
@@ -20920,7 +20920,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "aad2b78e-36f5-42f2-bec0-1e25232cfe5c")
-		(at 129.35375 60.9475)
+		(at 158.3425 90.5625)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D93"
@@ -21126,7 +21126,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "ad802c4b-27a7-4dd1-8062-77eeecc8fd5c")
-		(at 82.77875 55.9505)
+		(at 111.7675 85.5655)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D67"
@@ -21332,7 +21332,7 @@
 	(footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "b14e70ac-8389-4a00-9cf9-5774ca2fe1b2")
-		(at 150.42 70)
+		(at 179.40875 99.615)
 		(descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R1"
@@ -21507,7 +21507,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "b1bd9cd2-97c3-45df-9c08-5ae80ac724af")
-		(at 110.72375 55.9505)
+		(at 139.7125 85.5655)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D73"
@@ -21713,7 +21713,7 @@
 	(footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "b2427e2e-d3d6-4692-89c5-fff28398befc")
-		(at 150.42 55)
+		(at 179.40875 84.615)
 		(descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R4"
@@ -21888,7 +21888,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "ba35c8ee-d327-4b9d-a99c-0b33588b2b20")
-		(at 134.01125 35.9625)
+		(at 163 65.5775)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D14"
@@ -22094,7 +22094,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "bbe75aeb-6c0f-4855-880d-1605bd9ffef4")
-		(at 134.01125 65.9445)
+		(at 163 95.5595)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D110"
@@ -22300,7 +22300,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "bca0a467-4b5b-4781-9697-62f9dd70fab5")
-		(at 143.32625 60.9475)
+		(at 172.315 90.5625)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D96"
@@ -22506,7 +22506,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "c12fea3f-f4df-4a8d-91e3-50930545927f")
-		(at 82.77875 40.9595)
+		(at 111.7675 70.5745)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D19"
@@ -22712,7 +22712,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "c1304ebb-074e-4f12-93b2-1a350344ad78")
-		(at 73.46375 45.9565)
+		(at 102.4525 75.5715)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D33"
@@ -22918,7 +22918,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "c20aa0b0-a45b-4579-becb-6f8a61f205c6")
-		(at 110.72375 35.9625)
+		(at 139.7125 65.5775)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D9"
@@ -23124,7 +23124,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "c25f46c6-7081-4e39-abaf-a776d50e7f5c")
-		(at 87.43625 60.9475)
+		(at 116.425 90.5625)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D84"
@@ -23330,7 +23330,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "c2ca1268-c0bc-4a39-8c43-e7fa783c56aa")
-		(at 134.01125 70.9415)
+		(at 163 100.5565)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D126"
@@ -23536,7 +23536,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "c518f2ef-fd51-4ece-acf3-6463fcecb0e4")
-		(at 134.01125 55.9505)
+		(at 163 85.5655)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D78"
@@ -23742,7 +23742,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "c5999b33-c30c-4eda-b3d3-025051ec73ad")
-		(at 92.09375 40.9595)
+		(at 121.0825 70.5745)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D21"
@@ -23948,7 +23948,7 @@
 	(footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "c6fd3b82-c20f-4ca7-8ebb-7ceae6c90251")
-		(at 150.5 45)
+		(at 179.48875 74.615)
 		(descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R6"
@@ -24123,7 +24123,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "c97da601-1840-40db-8ac2-b907e5e48416")
-		(at 78.12125 65.9445)
+		(at 107.11 95.5595)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D98"
@@ -24329,7 +24329,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "cb6330a6-fdd3-4535-80b2-89ace33d2b04")
-		(at 120.03875 50.9535)
+		(at 149.0275 80.5685)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D59"
@@ -24535,7 +24535,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "cfe221ec-c1a5-4aad-8b4d-911b28a279d3")
-		(at 101.40875 60.9475)
+		(at 130.3975 90.5625)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D87"
@@ -24741,7 +24741,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "d0428c90-8a05-4774-8af5-69f65725d6e7")
-		(at 73.46375 55.9505)
+		(at 102.4525 85.5655)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D65"
@@ -24947,7 +24947,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "d32dd2f4-4f47-4674-b561-82b949e170c8")
-		(at 82.77875 70.9415)
+		(at 111.7675 100.5565)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D115"
@@ -25154,7 +25154,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "d37fa1cf-eab0-49fd-88e3-5d6b4b0876f0")
-		(at 124.69625 60.9475)
+		(at 153.685 90.5625)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D92"
@@ -25360,7 +25360,7 @@
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "d45bc834-08b3-43ed-afaf-78d7ca933ca4")
-		(at 169.5 61.28 180)
+		(at 198.48875 90.895 180)
 		(descr "Through hole straight pin header, 1x08, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x08 2.54mm single row")
 		(property "Reference" "U1"
@@ -25642,7 +25642,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "d64dc832-5967-4d17-826f-f6da165c19d0")
-		(at 143.32625 65.9445)
+		(at 172.315 95.5595)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D112"
@@ -25848,7 +25848,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "e1aeaeee-cc42-45eb-8fd9-31225340ae00")
-		(at 143.32625 50.9535)
+		(at 172.315 80.5685)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D64"
@@ -26054,7 +26054,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "e38c4f78-96bd-4d7f-86ab-86a45b9a58e3")
-		(at 138.66875 35.9625)
+		(at 167.6575 65.5775)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D15"
@@ -26260,7 +26260,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "e4666bab-1dfa-4c11-97e4-b9a7a43f2161")
-		(at 78.12125 35.9625)
+		(at 107.11 65.5775)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D2"
@@ -26466,7 +26466,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "e6fb2448-289a-42cb-af05-d2d3dbc53975")
-		(at 106.06625 45.9565)
+		(at 135.055 75.5715)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D40"
@@ -26672,7 +26672,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "e7bce87d-fd6c-447b-9bbb-df47400d9361")
-		(at 120.03875 55.9505)
+		(at 149.0275 85.5655)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D75"
@@ -26878,7 +26878,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "e9c9d0bd-65ef-4947-9575-653056411956")
-		(at 96.75125 55.9505)
+		(at 125.74 85.5655)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D70"
@@ -27084,7 +27084,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "ebd973eb-4bba-4b80-af10-3cd52dfe6fb3")
-		(at 143.32625 45.9565)
+		(at 172.315 75.5715)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D48"
@@ -27290,7 +27290,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "ef96f738-440d-4e8e-8fb3-ecaea3e10d15")
-		(at 78.12125 45.9565)
+		(at 107.11 75.5715)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D34"
@@ -27496,7 +27496,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "f2c8b843-2614-486a-b03c-5380543c068d")
-		(at 73.46375 65.9445)
+		(at 102.4525 95.5595)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D97"
@@ -27702,7 +27702,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "f61d2a31-24d1-4b23-9f34-634d1795b747")
-		(at 92.09375 60.9475)
+		(at 121.0825 90.5625)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D85"
@@ -27908,7 +27908,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "fc2af2e7-6d94-4dc8-9c75-57396951a55c")
-		(at 96.75125 45.9565)
+		(at 125.74 75.5715)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D38"
@@ -28114,7 +28114,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "fc6285e8-fad2-44e2-8cd1-db6107f72130")
-		(at 101.40875 45.9565)
+		(at 130.3975 75.5715)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D39"
@@ -28320,7 +28320,7 @@
 	(footprint "PROJECT_FOOTPRINTS:LED_0805_2012Metric_45"
 		(layer "F.Cu")
 		(uuid "ff666598-adad-4b82-8d87-f8a86c2c0897")
-		(at 92.09375 70.9415)
+		(at 121.0825 100.5565)
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D117"
@@ -28524,8 +28524,8 @@
 		)
 	)
 	(gr_rect
-		(start 70.5 31.5)
-		(end 173 84.5)
+		(start 99.48875 61.115)
+		(end 201.98875 114.115)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -28535,7 +28535,7 @@
 		(uuid "79189d41-fe5c-44df-9007-50a32ee8a5f7")
 	)
 	(gr_text "Alexander Holden\nStudent id: 14264982"
-		(at 147.5 79.5 0)
+		(at 176.48875 109.115 0)
 		(layer "F.SilkS")
 		(uuid "02e7f2b8-3948-4403-874e-61ab2980c17c")
 		(effects
@@ -28547,7 +28547,7 @@
 		)
 	)
 	(via
-		(at 73.46375 71.879)
+		(at 102.4525 101.494)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -28555,7 +28555,7 @@
 		(uuid "05a7a46a-8d19-48ef-91d4-8d224fbb49af")
 	)
 	(via
-		(at 73.46375 36.9)
+		(at 102.4525 66.515)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -28563,7 +28563,7 @@
 		(uuid "5a569fa2-eec8-4004-82bd-3a6bec29ec4c")
 	)
 	(via
-		(at 73.46375 51.891)
+		(at 102.4525 81.506)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -28571,7 +28571,7 @@
 		(uuid "bfbf23aa-8302-405f-8a4e-79d75b146577")
 	)
 	(via
-		(at 73.46375 56.888)
+		(at 102.4525 86.503)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -28579,7 +28579,7 @@
 		(uuid "c45a530c-3a08-4d85-9ca4-cb607eaf3ee8")
 	)
 	(via
-		(at 73.46375 41.897)
+		(at 102.4525 71.512)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -28587,7 +28587,7 @@
 		(uuid "e6fdf907-9e36-420d-8349-572bc78d304d")
 	)
 	(via
-		(at 73.46375 61.885)
+		(at 102.4525 91.5)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -28595,7 +28595,7 @@
 		(uuid "e81ecd8b-aee0-4d58-8b19-1826fc509b89")
 	)
 	(via
-		(at 73.46375 46.894)
+		(at 102.4525 76.509)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -28603,7 +28603,7 @@
 		(uuid "f1a3b453-4131-4eda-8268-198ffd8f770b")
 	)
 	(via
-		(at 73.46375 66.882)
+		(at 102.4525 96.497)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -28611,31 +28611,31 @@
 		(uuid "f6ec2218-a4c4-4818-ae06-f585d58676b7")
 	)
 	(segment
-		(start 73.46375 36.9)
-		(end 73.46375 71.879)
+		(start 102.4525 66.515)
+		(end 102.4525 101.494)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 1)
 		(uuid "06aec55b-07ff-4d83-a7c9-e9ce36ee27ed")
 	)
 	(segment
-		(start 73.46375 71.879)
-		(end 82.58475 81)
+		(start 102.4525 101.494)
+		(end 111.5735 110.615)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 1)
 		(uuid "083870e3-47f0-44d8-bb71-e3c0eeb4d00a")
 	)
 	(segment
-		(start 82.58475 81)
-		(end 90.44 81)
+		(start 111.5735 110.615)
+		(end 119.42875 110.615)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 1)
 		(uuid "432c9029-aa57-4472-9084-c92db1ba4f2a")
 	)
 	(via
-		(at 87.472497 46.909804)
+		(at 116.461247 76.524804)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -28643,7 +28643,7 @@
 		(uuid "1fdbcd27-9860-4a1f-8c90-013197e2d9f3")
 	)
 	(via
-		(at 87.472497 51.906804)
+		(at 116.461247 81.521804)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -28651,7 +28651,7 @@
 		(uuid "7d96ed63-abc8-41df-83d2-427e404f99f8")
 	)
 	(via
-		(at 87.472497 61.900804)
+		(at 116.461247 91.515804)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -28659,7 +28659,7 @@
 		(uuid "8cda4a02-56c7-48c2-bcf3-946842775f09")
 	)
 	(via
-		(at 87.472497 66.897804)
+		(at 116.461247 96.512804)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -28667,7 +28667,7 @@
 		(uuid "8da0c590-729c-400c-9cae-edbc39818d1d")
 	)
 	(via
-		(at 87.472497 56.903804)
+		(at 116.461247 86.518804)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -28675,7 +28675,7 @@
 		(uuid "a7d0b074-c1f0-4aad-b059-b8741c29e212")
 	)
 	(via
-		(at 87.472497 71.894804)
+		(at 116.461247 101.509804)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -28683,7 +28683,7 @@
 		(uuid "b6b4434a-1ddd-4b46-88d5-55ba3683fc09")
 	)
 	(via
-		(at 87.472497 36.915804)
+		(at 116.461247 66.530804)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -28691,7 +28691,7 @@
 		(uuid "c7d8b5c2-2c1b-4a4a-be63-01aca019b1d3")
 	)
 	(via
-		(at 87.472497 41.912804)
+		(at 116.461247 71.527804)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -28699,39 +28699,39 @@
 		(uuid "cca92510-0caa-4258-89e7-4c42b360270b")
 	)
 	(segment
-		(start 87.472497 71.894804)
-		(end 87.472497 36.915804)
+		(start 116.461247 101.509804)
+		(end 116.461247 66.530804)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 2)
 		(uuid "3d78e0ac-feb3-4526-bcad-6042b0ba111f")
 	)
 	(segment
-		(start 87.472497 71.894804)
-		(end 91.577693 76)
+		(start 116.461247 101.509804)
+		(end 120.566443 105.615)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 2)
 		(uuid "c303591f-6488-4eab-a96a-4251c8381ac0")
 	)
 	(segment
-		(start 93.06 76)
-		(end 98.06 81)
+		(start 122.04875 105.615)
+		(end 127.04875 110.615)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 2)
 		(uuid "d35dd58b-b0af-4639-9b01-01d3b333d725")
 	)
 	(segment
-		(start 91.577693 76)
-		(end 93.06 76)
+		(start 120.566443 105.615)
+		(end 122.04875 105.615)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 2)
 		(uuid "f01df202-cfb1-4c57-b7ff-a6c878ade7eb")
 	)
 	(via
-		(at 92.127365 46.922539)
+		(at 121.116115 76.537539)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -28739,7 +28739,7 @@
 		(uuid "22de698e-8577-40c3-bc00-69abd103a41c")
 	)
 	(via
-		(at 92.127365 56.916539)
+		(at 121.116115 86.531539)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -28747,7 +28747,7 @@
 		(uuid "2bc9061e-2555-4b4d-be48-6cdbba24d615")
 	)
 	(via
-		(at 92.127365 51.919539)
+		(at 121.116115 81.534539)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -28755,7 +28755,7 @@
 		(uuid "4599a977-ceac-4b1c-96f6-c4715691830c")
 	)
 	(via
-		(at 92.127365 61.913539)
+		(at 121.116115 91.528539)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -28763,7 +28763,7 @@
 		(uuid "5a82e2f6-1750-4e85-b120-08be01fd9267")
 	)
 	(via
-		(at 92.127365 36.928539)
+		(at 121.116115 66.543539)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -28771,7 +28771,7 @@
 		(uuid "bb73b922-144d-4866-a385-35b9fd531830")
 	)
 	(via
-		(at 92.127365 71.907539)
+		(at 121.116115 101.522539)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -28779,7 +28779,7 @@
 		(uuid "d0c4e9b5-279c-48c2-9803-165404ba6c08")
 	)
 	(via
-		(at 92.127365 41.925539)
+		(at 121.116115 71.540539)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -28787,7 +28787,7 @@
 		(uuid "eb11bdda-35da-477f-9e8a-b26b797d26bb")
 	)
 	(via
-		(at 92.127365 66.910539)
+		(at 121.116115 96.525539)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -28795,31 +28795,31 @@
 		(uuid "ffb55346-57aa-4834-8cfc-94e82819f274")
 	)
 	(segment
-		(start 92.127365 72.527365)
-		(end 92.127365 71.907539)
+		(start 121.116115 102.142365)
+		(end 121.116115 101.522539)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 3)
 		(uuid "1c62f9aa-34e6-4f33-a32d-d79ee5b98490")
 	)
 	(segment
-		(start 100.6 81)
-		(end 92.127365 72.527365)
+		(start 129.58875 110.615)
+		(end 121.116115 102.142365)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 3)
 		(uuid "24f29fc4-8490-4327-9cb8-cf643c42ea7b")
 	)
 	(segment
-		(start 92.127365 36.928539)
-		(end 92.127365 71.907539)
+		(start 121.116115 66.543539)
+		(end 121.116115 101.522539)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 3)
 		(uuid "54e452de-96d4-4307-8d5e-0e766543ead5")
 	)
 	(via
-		(at 96.769498 41.887332)
+		(at 125.758248 71.502332)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -28827,7 +28827,7 @@
 		(uuid "2a6a23a1-8f81-4e8a-9c1c-8d8c1e5247df")
 	)
 	(via
-		(at 96.769498 36.890332)
+		(at 125.758248 66.505332)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -28835,7 +28835,7 @@
 		(uuid "2c1d464e-b876-4532-b1c7-d91672718d18")
 	)
 	(via
-		(at 96.769498 46.884332)
+		(at 125.758248 76.499332)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -28843,7 +28843,7 @@
 		(uuid "5d9d6ec0-1c7f-4b69-a0a7-f640b665c13c")
 	)
 	(via
-		(at 96.769498 66.872332)
+		(at 125.758248 96.487332)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -28851,7 +28851,7 @@
 		(uuid "5eb413ea-f2ec-45ca-8051-7c7a300c9a84")
 	)
 	(via
-		(at 96.769498 61.875332)
+		(at 125.758248 91.490332)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -28859,7 +28859,7 @@
 		(uuid "8af8974a-6765-44e0-a6b8-793491698bc8")
 	)
 	(via
-		(at 96.769498 56.878332)
+		(at 125.758248 86.493332)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -28867,7 +28867,7 @@
 		(uuid "9bf15975-834c-421c-b2eb-e955066cbd2a")
 	)
 	(via
-		(at 96.769498 71.869332)
+		(at 125.758248 101.484332)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -28875,7 +28875,7 @@
 		(uuid "a580bafd-60b2-48b6-8f0b-b9f8a47c7efe")
 	)
 	(via
-		(at 96.769498 51.881332)
+		(at 125.758248 81.496332)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -28883,31 +28883,31 @@
 		(uuid "bf2e793c-dca7-4fbc-b231-c76649350f85")
 	)
 	(segment
-		(start 96.769498 71.869332)
-		(end 96.769498 36.890332)
+		(start 125.758248 101.484332)
+		(end 125.758248 66.505332)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 4)
 		(uuid "b21c23d2-fb93-4016-b662-979a855aaf69")
 	)
 	(segment
-		(start 96.769498 71.869332)
-		(end 96.769498 74.629498)
+		(start 125.758248 101.484332)
+		(end 125.758248 104.244498)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 4)
 		(uuid "d7f9526b-c779-46c9-bac7-1be906ecd213")
 	)
 	(segment
-		(start 96.769498 74.629498)
-		(end 103.14 81)
+		(start 125.758248 104.244498)
+		(end 132.12875 110.615)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 4)
 		(uuid "eef23c3c-9f36-4920-9fb3-e63deb02a4de")
 	)
 	(via
-		(at 101.424367 56.910171)
+		(at 130.413117 86.525171)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -28915,7 +28915,7 @@
 		(uuid "07c01bf4-06ff-44c1-9886-e961800fe320")
 	)
 	(via
-		(at 101.424367 46.916171)
+		(at 130.413117 76.531171)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -28923,7 +28923,7 @@
 		(uuid "23017121-e4e2-40ed-96ef-e1afd9b76429")
 	)
 	(via
-		(at 101.424367 51.913171)
+		(at 130.413117 81.528171)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -28931,7 +28931,7 @@
 		(uuid "3293d396-9dc9-4328-9369-cddd4c9391a8")
 	)
 	(via
-		(at 101.424367 41.919171)
+		(at 130.413117 71.534171)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -28939,7 +28939,7 @@
 		(uuid "46a49145-cbbb-4eb5-9c42-58a28223dea0")
 	)
 	(via
-		(at 101.424367 61.907171)
+		(at 130.413117 91.522171)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -28947,7 +28947,7 @@
 		(uuid "47340734-8dc6-4856-ab21-2d12b20481ff")
 	)
 	(via
-		(at 101.424367 36.922171)
+		(at 130.413117 66.537171)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -28955,7 +28955,7 @@
 		(uuid "5b198b82-44f9-4ad2-bc95-d7a4faf3bcf4")
 	)
 	(via
-		(at 101.424367 71.901171)
+		(at 130.413117 101.516171)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -28963,7 +28963,7 @@
 		(uuid "5da86e60-24df-42b9-ab24-797524a016a6")
 	)
 	(via
-		(at 101.424367 66.904171)
+		(at 130.413117 96.519171)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -28971,47 +28971,47 @@
 		(uuid "dd86ff00-5670-4500-8b9f-bc5347ab9c7f")
 	)
 	(segment
-		(start 101.424367 74.424367)
-		(end 105 78)
+		(start 130.413117 104.039367)
+		(end 133.98875 107.615)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 5)
 		(uuid "17086846-f03a-4c61-bd64-0ddb4180e3c1")
 	)
 	(segment
-		(start 105 80.32)
-		(end 105.68 81)
+		(start 133.98875 109.935)
+		(end 134.66875 110.615)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 5)
 		(uuid "19beef77-45f2-43a1-9f2b-8d1ca7cb509b")
 	)
 	(segment
-		(start 101.424367 36.922171)
-		(end 101.424367 71.901171)
+		(start 130.413117 66.537171)
+		(end 130.413117 101.516171)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 5)
 		(uuid "d9727641-1bbd-40af-8ad7-81f2aa378aca")
 	)
 	(segment
-		(start 101.424367 71.901171)
-		(end 101.424367 74.424367)
+		(start 130.413117 101.516171)
+		(end 130.413117 104.039367)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 5)
 		(uuid "e1303574-bdff-4d63-9e68-511f482cfa7a")
 	)
 	(segment
-		(start 105 78)
-		(end 105 80.32)
+		(start 133.98875 107.615)
+		(end 133.98875 109.935)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 5)
 		(uuid "ff19ab0b-06cd-4c2e-87c7-bb11b687d459")
 	)
 	(via
-		(at 106.085603 66.942378)
+		(at 135.074353 96.557378)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29019,7 +29019,7 @@
 		(uuid "0ceda4c7-426f-4836-90db-92c4a1aadba0")
 	)
 	(via
-		(at 106.085603 56.948378)
+		(at 135.074353 86.563378)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29027,7 +29027,7 @@
 		(uuid "274e77b0-da7f-44b1-9a92-c0e3e543ddf5")
 	)
 	(via
-		(at 106.085603 71.939378)
+		(at 135.074353 101.554378)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29035,7 +29035,7 @@
 		(uuid "4cd92b6d-de83-4d65-b24a-d4f3646c0353")
 	)
 	(via
-		(at 106.085603 51.951378)
+		(at 135.074353 81.566378)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29043,7 +29043,7 @@
 		(uuid "5e4ac968-8d67-4ab4-afaa-b028b249f51b")
 	)
 	(via
-		(at 106.085603 61.945378)
+		(at 135.074353 91.560378)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29051,7 +29051,7 @@
 		(uuid "64cf32b6-1c10-4764-87de-4fc2d96da73b")
 	)
 	(via
-		(at 106.085603 46.954378)
+		(at 135.074353 76.569378)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29059,7 +29059,7 @@
 		(uuid "94270f71-5cab-4658-bff0-eb1f1500ac7a")
 	)
 	(via
-		(at 106.085603 36.960378)
+		(at 135.074353 66.575378)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29067,7 +29067,7 @@
 		(uuid "a6f182f1-6ddd-4f1f-b6b9-9d6b8e87219d")
 	)
 	(via
-		(at 106.085603 41.957378)
+		(at 135.074353 71.572378)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29075,39 +29075,39 @@
 		(uuid "f5ea6fe6-71c0-411c-9555-c1cc323befa9")
 	)
 	(segment
-		(start 106.085603 71.939378)
-		(end 106.085603 36.960378)
+		(start 135.074353 101.554378)
+		(end 135.074353 66.575378)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 6)
 		(uuid "753f3cda-d3cb-4b32-849f-dbb3eb455b0c")
 	)
 	(segment
-		(start 106.085603 71.939378)
-		(end 106.060622 71.964359)
+		(start 135.074353 101.554378)
+		(end 135.049372 101.579359)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 6)
 		(uuid "7c474cb8-320b-478e-a5f7-65015e71a5e8")
 	)
 	(segment
-		(start 106.060622 78.840622)
-		(end 108.22 81)
+		(start 135.049372 108.455622)
+		(end 137.20875 110.615)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 6)
 		(uuid "90766d2f-a0ef-4693-9310-c6790c4cad7d")
 	)
 	(segment
-		(start 106.060622 71.964359)
-		(end 106.060622 78.840622)
+		(start 135.049372 101.579359)
+		(end 135.049372 108.455622)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 6)
 		(uuid "c35bf95e-ba5c-44e0-ae83-043412a7a160")
 	)
 	(via
-		(at 110.740472 66.948746)
+		(at 139.729222 96.563746)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29115,7 +29115,7 @@
 		(uuid "642cd41e-1b2e-4e85-a762-f40ebf0658f2")
 	)
 	(via
-		(at 110.740472 71.945746)
+		(at 139.729222 101.560746)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29123,7 +29123,7 @@
 		(uuid "84336706-23fa-4ca7-8f02-e8cb36f0f276")
 	)
 	(via
-		(at 110.740472 36.966746)
+		(at 139.729222 66.581746)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29131,7 +29131,7 @@
 		(uuid "9c93b7a9-1723-4615-b4a4-bdd5a3d5759c")
 	)
 	(via
-		(at 110.740472 41.963746)
+		(at 139.729222 71.578746)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29139,7 +29139,7 @@
 		(uuid "9c9775fb-f8b3-4d46-b55c-8a9e0f0db84f")
 	)
 	(via
-		(at 110.740472 51.957746)
+		(at 139.729222 81.572746)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29147,7 +29147,7 @@
 		(uuid "a7667430-f36f-4437-bbac-bc8c93465516")
 	)
 	(via
-		(at 110.740472 46.960746)
+		(at 139.729222 76.575746)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29155,7 +29155,7 @@
 		(uuid "a846c815-ef3d-4cb7-a3ec-89d5b0b957f2")
 	)
 	(via
-		(at 110.740472 56.954746)
+		(at 139.729222 86.569746)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29163,7 +29163,7 @@
 		(uuid "d6dc8564-7676-4c2b-a9b3-8073d4375fdc")
 	)
 	(via
-		(at 110.740472 61.951746)
+		(at 139.729222 91.566746)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29171,31 +29171,31 @@
 		(uuid "f219a116-020f-451c-8e2a-ca533e0ac0ec")
 	)
 	(segment
-		(start 110.740472 71.945746)
-		(end 110.76 71.965274)
+		(start 139.729222 101.560746)
+		(end 139.74875 101.580274)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 7)
 		(uuid "02b5bbb3-9429-4a89-8ba7-6ad5d165f1ad")
 	)
 	(segment
-		(start 110.740472 36.966746)
-		(end 110.740472 71.945746)
+		(start 139.729222 66.581746)
+		(end 139.729222 101.560746)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 7)
 		(uuid "9145b1cf-94f1-4f20-b864-61669f53dad8")
 	)
 	(segment
-		(start 110.76 71.965274)
-		(end 110.76 81)
+		(start 139.74875 101.580274)
+		(end 139.74875 110.615)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 7)
 		(uuid "eb1bf00a-7b8c-4824-81e5-b10065eac1c1")
 	)
 	(via
-		(at 115.382605 46.973482)
+		(at 144.371355 76.588482)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29203,7 +29203,7 @@
 		(uuid "608b04ed-1bad-40dc-b566-12a5edc3f55e")
 	)
 	(via
-		(at 115.382605 66.961482)
+		(at 144.371355 96.576482)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29211,7 +29211,7 @@
 		(uuid "64fbd818-3d43-43ff-b97f-17e27d26f600")
 	)
 	(via
-		(at 115.382605 61.964482)
+		(at 144.371355 91.579482)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29219,7 +29219,7 @@
 		(uuid "8e8a2a1a-8780-4f83-b20c-fb163fb1a2b9")
 	)
 	(via
-		(at 115.382605 41.976482)
+		(at 144.371355 71.591482)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29227,7 +29227,7 @@
 		(uuid "bff714b8-8c66-458f-ba60-006dae93ee99")
 	)
 	(via
-		(at 115.382605 71.958482)
+		(at 144.371355 101.573482)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29235,7 +29235,7 @@
 		(uuid "ed997d46-7945-4c77-aa2c-934c97327210")
 	)
 	(via
-		(at 115.382605 36.979482)
+		(at 144.371355 66.594482)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29243,7 +29243,7 @@
 		(uuid "f455c4dd-3e59-4ffe-9f8c-bbda1c3781a1")
 	)
 	(via
-		(at 115.382605 51.970482)
+		(at 144.371355 81.585482)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29251,7 +29251,7 @@
 		(uuid "f482bc5d-a43b-4ff2-a0e1-795e50065b9c")
 	)
 	(via
-		(at 115.382605 56.967482)
+		(at 144.371355 86.582482)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29259,31 +29259,31 @@
 		(uuid "f68f1b16-d711-4ea9-b6b9-8f88aeed15b0")
 	)
 	(segment
-		(start 115.382605 71.958482)
-		(end 115.382605 36.979482)
+		(start 144.371355 101.573482)
+		(end 144.371355 66.594482)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 8)
 		(uuid "017751fe-1646-42ca-b7ab-d25e0bde478e")
 	)
 	(segment
-		(start 115.382605 71.958482)
-		(end 115.382605 78.917395)
+		(start 144.371355 101.573482)
+		(end 144.371355 108.532395)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 8)
 		(uuid "3386362d-4a2a-4fcc-8f48-38a3c62853c7")
 	)
 	(segment
-		(start 115.382605 78.917395)
-		(end 113.3 81)
+		(start 144.371355 108.532395)
+		(end 142.28875 110.615)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 8)
 		(uuid "b13a3de7-522e-4bb1-8652-872f0462d7dc")
 	)
 	(via
-		(at 120.050209 36.966746)
+		(at 149.038959 66.581746)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29291,7 +29291,7 @@
 		(uuid "0dfd85a3-f277-4268-8dc7-09e5561d3c74")
 	)
 	(via
-		(at 120.050209 66.948746)
+		(at 149.038959 96.563746)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29299,7 +29299,7 @@
 		(uuid "36265489-0332-4c38-a1a1-22396553be31")
 	)
 	(via
-		(at 120.050209 46.960746)
+		(at 149.038959 76.575746)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29307,7 +29307,7 @@
 		(uuid "8a98284b-4f96-4c32-bf97-6ff68a012245")
 	)
 	(via
-		(at 120.050209 41.963746)
+		(at 149.038959 71.578746)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29315,7 +29315,7 @@
 		(uuid "b55bba77-2634-47f2-b5fa-fb806cab3fa8")
 	)
 	(via
-		(at 120.050209 51.957746)
+		(at 149.038959 81.572746)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29323,7 +29323,7 @@
 		(uuid "c6e77f86-c3e4-40b4-b64f-6889c9958e7c")
 	)
 	(via
-		(at 120.050209 71.945746)
+		(at 149.038959 101.560746)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29331,7 +29331,7 @@
 		(uuid "c8609a0a-42f6-48ec-a84f-7c77a34be1a9")
 	)
 	(via
-		(at 120.050209 56.954746)
+		(at 149.038959 86.569746)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29339,7 +29339,7 @@
 		(uuid "cce82692-1ced-42ab-bdad-b92c48698711")
 	)
 	(via
-		(at 120.050209 61.951746)
+		(at 149.038959 91.566746)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29347,31 +29347,31 @@
 		(uuid "e219e019-0c88-4f0e-83b4-e049b10ce284")
 	)
 	(segment
-		(start 120.050209 36.966746)
-		(end 120.050209 71.945746)
+		(start 149.038959 66.581746)
+		(end 149.038959 101.560746)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 9)
 		(uuid "47ad5acd-bfab-47f5-a384-f16119f13d0e")
 	)
 	(segment
-		(start 120.050209 76.789791)
-		(end 115.84 81)
+		(start 149.038959 106.404791)
+		(end 144.82875 110.615)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 9)
 		(uuid "a725b841-4d18-4f4c-b5fe-bc9aa207117a")
 	)
 	(segment
-		(start 120.050209 71.945746)
-		(end 120.050209 76.789791)
+		(start 149.038959 101.560746)
+		(end 149.038959 106.404791)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 9)
 		(uuid "dce2fe66-98d9-4bac-a9fa-0c5869396329")
 	)
 	(via
-		(at 124.736916 66.936011)
+		(at 153.725666 96.551011)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29379,7 +29379,7 @@
 		(uuid "157b7b7f-5478-41e3-a8dc-88ae60cace6d")
 	)
 	(via
-		(at 124.736916 36.954011)
+		(at 153.725666 66.569011)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29387,7 +29387,7 @@
 		(uuid "1c32a395-805c-4e0f-93c1-d9c45e7947c9")
 	)
 	(via
-		(at 124.736916 61.939011)
+		(at 153.725666 91.554011)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29395,7 +29395,7 @@
 		(uuid "276e6e22-dcd3-42b3-a481-fac5011f20ec")
 	)
 	(via
-		(at 124.736916 41.951011)
+		(at 153.725666 71.566011)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29403,7 +29403,7 @@
 		(uuid "358c99f9-ccad-4115-a585-6870f9962652")
 	)
 	(via
-		(at 124.736916 56.942011)
+		(at 153.725666 86.557011)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29411,7 +29411,7 @@
 		(uuid "428f2839-2705-4224-894b-ecd612653a2c")
 	)
 	(via
-		(at 124.736916 51.945011)
+		(at 153.725666 81.560011)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29419,7 +29419,7 @@
 		(uuid "8a7cadbb-1a5c-491d-af3e-592eb8b0c7f8")
 	)
 	(via
-		(at 124.736916 46.948011)
+		(at 153.725666 76.563011)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29427,7 +29427,7 @@
 		(uuid "b319f678-f450-4189-9f96-c5c21e38cc63")
 	)
 	(via
-		(at 124.736916 71.933011)
+		(at 153.725666 101.548011)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29435,31 +29435,31 @@
 		(uuid "ca6efa7d-8486-45b2-b60c-9c1cf627cd61")
 	)
 	(segment
-		(start 124.736916 74.643084)
-		(end 118.38 81)
+		(start 153.725666 104.258084)
+		(end 147.36875 110.615)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 10)
 		(uuid "144f5834-d37e-476a-8b27-4d560df73b79")
 	)
 	(segment
-		(start 124.736916 71.933011)
-		(end 124.736916 74.643084)
+		(start 153.725666 101.548011)
+		(end 153.725666 104.258084)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 10)
 		(uuid "6a089a4a-af10-4fde-93c8-eeb19cc1985e")
 	)
 	(segment
-		(start 124.736916 71.933011)
-		(end 124.736916 36.954011)
+		(start 153.725666 101.548011)
+		(end 153.725666 66.569011)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 10)
 		(uuid "f8fc7eea-d40f-4933-b979-3e33f7a28a2f")
 	)
 	(via
-		(at 129.366314 61.932643)
+		(at 158.355064 91.547643)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29467,7 +29467,7 @@
 		(uuid "04426184-e4d8-4d3f-b568-646e0753f910")
 	)
 	(via
-		(at 129.366314 56.935643)
+		(at 158.355064 86.550643)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29475,7 +29475,7 @@
 		(uuid "1a9b70e9-714b-40a5-8e0e-d023a06b2153")
 	)
 	(via
-		(at 129.366314 36.947643)
+		(at 158.355064 66.562643)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29483,7 +29483,7 @@
 		(uuid "27795468-fe48-47eb-9bf2-457400bc8362")
 	)
 	(via
-		(at 129.366314 41.944643)
+		(at 158.355064 71.559643)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29491,7 +29491,7 @@
 		(uuid "ac527b29-0dfc-4f14-89bf-282ff793c6c1")
 	)
 	(via
-		(at 129.366314 46.941643)
+		(at 158.355064 76.556643)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29499,7 +29499,7 @@
 		(uuid "ae39bcd4-7388-466a-82a9-02d61821adc4")
 	)
 	(via
-		(at 129.366314 51.938643)
+		(at 158.355064 81.553643)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29507,7 +29507,7 @@
 		(uuid "bbde5674-d425-47a5-af78-219dab249bcc")
 	)
 	(via
-		(at 129.366314 66.929643)
+		(at 158.355064 96.544643)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29515,7 +29515,7 @@
 		(uuid "d4e683cc-d8da-4830-8f67-9112d0f48f54")
 	)
 	(via
-		(at 129.366314 71.926643)
+		(at 158.355064 101.541643)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29523,31 +29523,31 @@
 		(uuid "f7335373-a55c-469f-8acc-1f33c1f0bfae")
 	)
 	(segment
-		(start 129.366314 36.947643)
-		(end 129.366314 71.926643)
+		(start 158.355064 66.562643)
+		(end 158.355064 101.541643)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 11)
 		(uuid "26ae3792-0352-4591-8bb6-6d0245d3645f")
 	)
 	(segment
-		(start 129.366314 72.553686)
-		(end 120.92 81)
+		(start 158.355064 102.168686)
+		(end 149.90875 110.615)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 11)
 		(uuid "df349029-ffc0-49c3-8a46-47d43e3948d3")
 	)
 	(segment
-		(start 129.366314 71.926643)
-		(end 129.366314 72.553686)
+		(start 158.355064 101.541643)
+		(end 158.355064 102.168686)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 11)
 		(uuid "f486fd06-3bbd-4fbd-ba65-787260b53d69")
 	)
 	(via
-		(at 134.040286 56.948378)
+		(at 163.029036 86.563378)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29555,7 +29555,7 @@
 		(uuid "00980088-28e3-49c9-9987-d847b39abc31")
 	)
 	(via
-		(at 134.040286 51.951378)
+		(at 163.029036 81.566378)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29563,7 +29563,7 @@
 		(uuid "178fbeb5-74ee-4273-af6e-c1b77d3c867e")
 	)
 	(via
-		(at 134.040286 41.957378)
+		(at 163.029036 71.572378)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29571,7 +29571,7 @@
 		(uuid "31857ebb-b2c7-4cab-845b-85e7b4f416ac")
 	)
 	(via
-		(at 134.040286 61.945378)
+		(at 163.029036 91.560378)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29579,7 +29579,7 @@
 		(uuid "837266a1-d6b5-418b-8dad-28b44da58022")
 	)
 	(via
-		(at 134.040286 66.942378)
+		(at 163.029036 96.557378)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29587,7 +29587,7 @@
 		(uuid "d7e39a68-faa3-4e93-ae6f-74cdc86c8298")
 	)
 	(via
-		(at 134.040286 71.939378)
+		(at 163.029036 101.554378)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29595,7 +29595,7 @@
 		(uuid "d94fb5da-48ec-4bc2-bd24-302241c422cb")
 	)
 	(via
-		(at 134.040286 46.954378)
+		(at 163.029036 76.569378)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29603,7 +29603,7 @@
 		(uuid "e69babc7-c867-4fcc-a5ae-4cc35cdbaae3")
 	)
 	(via
-		(at 134.040286 36.960378)
+		(at 163.029036 66.575378)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29611,47 +29611,47 @@
 		(uuid "ecbe935e-7cbd-4206-9ee0-c5205a1d8eea")
 	)
 	(segment
-		(start 123.46 81)
-		(end 129.96 74.5)
+		(start 152.44875 110.615)
+		(end 158.94875 104.115)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 12)
 		(uuid "2af5ff5e-21e0-49ec-9967-378be2812bd4")
 	)
 	(segment
-		(start 134.040286 71.939378)
-		(end 134.040286 36.960378)
+		(start 163.029036 101.554378)
+		(end 163.029036 66.575378)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 12)
 		(uuid "44466444-7829-4e29-bac1-cd9f1dedbffb")
 	)
 	(segment
-		(start 129.96 74.5)
-		(end 132.5 74.5)
+		(start 158.94875 104.115)
+		(end 161.48875 104.115)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 12)
 		(uuid "f5e7edd6-29ca-43e9-8f90-debbb89af509")
 	)
 	(segment
-		(start 134.040286 72.959714)
-		(end 134.040286 71.939378)
+		(start 163.029036 102.574714)
+		(end 163.029036 101.554378)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 12)
 		(uuid "fc007fba-8097-4fb6-9b01-ff0dd8529f71")
 	)
 	(segment
-		(start 132.5 74.5)
-		(end 134.040286 72.959714)
+		(start 161.48875 104.115)
+		(end 163.029036 102.574714)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 12)
 		(uuid "fcc44592-75bc-4069-8b93-7d314d8f74ca")
 	)
 	(via
-		(at 138.669683 56.935643)
+		(at 167.658433 86.550643)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29659,7 +29659,7 @@
 		(uuid "57c64fc7-f577-4b44-8e39-9d3e49107756")
 	)
 	(via
-		(at 138.669683 41.944643)
+		(at 167.658433 71.559643)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29667,7 +29667,7 @@
 		(uuid "6722de3b-9e94-4834-aaf5-70854da9d42c")
 	)
 	(via
-		(at 138.669683 66.929643)
+		(at 167.658433 96.544643)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29675,7 +29675,7 @@
 		(uuid "68b73d3c-2863-4f06-bd40-36268add0832")
 	)
 	(via
-		(at 138.669683 71.926643)
+		(at 167.658433 101.541643)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29683,7 +29683,7 @@
 		(uuid "d1033ec2-3860-4605-87f1-634c09abaf26")
 	)
 	(via
-		(at 138.669683 61.932643)
+		(at 167.658433 91.547643)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29691,7 +29691,7 @@
 		(uuid "e204a2f4-c594-4fbf-8c97-6958d6e16c8e")
 	)
 	(via
-		(at 138.669683 46.941643)
+		(at 167.658433 76.556643)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29699,7 +29699,7 @@
 		(uuid "e5ac1fdf-c4d1-404d-880e-2e0ef72d33af")
 	)
 	(via
-		(at 138.669683 51.938643)
+		(at 167.658433 81.553643)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29707,7 +29707,7 @@
 		(uuid "f5f5734f-9aba-4057-82f1-11ef0b207930")
 	)
 	(via
-		(at 138.669683 36.947643)
+		(at 167.658433 66.562643)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29715,47 +29715,47 @@
 		(uuid "f9521cc7-c733-435a-a46c-d5afedbf0b14")
 	)
 	(segment
-		(start 126 81)
-		(end 129 78)
+		(start 154.98875 110.615)
+		(end 157.98875 107.615)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 13)
 		(uuid "22a46627-43f3-4d57-bb9e-05a4b30cce83")
 	)
 	(segment
-		(start 134 78)
-		(end 138.669683 73.330317)
+		(start 162.98875 107.615)
+		(end 167.658433 102.945317)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 13)
 		(uuid "5869bddc-b0a8-4697-9eb8-7c1ad8de37c6")
 	)
 	(segment
-		(start 138.669683 36.947643)
-		(end 138.669683 71.926643)
+		(start 167.658433 66.562643)
+		(end 167.658433 101.541643)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 13)
 		(uuid "7040a6ff-061c-4432-9eca-6bad6baf3dbf")
 	)
 	(segment
-		(start 129 78)
-		(end 134 78)
+		(start 157.98875 107.615)
+		(end 162.98875 107.615)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 13)
 		(uuid "820e11c1-ffe1-4e49-a794-b8c408e9609d")
 	)
 	(segment
-		(start 138.669683 73.330317)
-		(end 138.669683 71.926643)
+		(start 167.658433 102.945317)
+		(end 167.658433 101.541643)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 13)
 		(uuid "9b04f59d-1eb3-4faf-b523-9751a594b743")
 	)
 	(via
-		(at 143.362758 46.948011)
+		(at 172.351508 76.563011)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29763,7 +29763,7 @@
 		(uuid "003912ed-92ef-4670-93fc-74b6034a3791")
 	)
 	(via
-		(at 143.362758 41.951011)
+		(at 172.351508 71.566011)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29771,7 +29771,7 @@
 		(uuid "06060874-085d-4b0d-b864-0ed2b1b8817c")
 	)
 	(via
-		(at 143.362758 51.945011)
+		(at 172.351508 81.560011)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29779,7 +29779,7 @@
 		(uuid "3a1c569c-c724-482b-bebf-34bae65a1b92")
 	)
 	(via
-		(at 143.362758 56.942011)
+		(at 172.351508 86.557011)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29787,7 +29787,7 @@
 		(uuid "3b76b0b3-af9c-43bb-a673-fe430ce045b3")
 	)
 	(via
-		(at 143.362758 66.936011)
+		(at 172.351508 96.551011)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29795,7 +29795,7 @@
 		(uuid "49196293-7515-4160-8e8e-082def5803ca")
 	)
 	(via
-		(at 143.362758 71.933011)
+		(at 172.351508 101.548011)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29803,7 +29803,7 @@
 		(uuid "68afbcfb-640c-474e-aa45-02cfd5b9ea68")
 	)
 	(via
-		(at 143.362758 36.954011)
+		(at 172.351508 66.569011)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29811,7 +29811,7 @@
 		(uuid "90089a80-2f31-4666-9ce0-490981654e42")
 	)
 	(via
-		(at 143.362758 61.939011)
+		(at 172.351508 91.554011)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29819,31 +29819,31 @@
 		(uuid "b24fcac0-1b11-47a4-af37-9eb99b906f35")
 	)
 	(segment
-		(start 134.295769 81)
-		(end 128.54 81)
+		(start 163.284519 110.615)
+		(end 157.52875 110.615)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 14)
 		(uuid "97bb4851-6d90-4c8b-bcb1-da65aaa68fb9")
 	)
 	(segment
-		(start 143.362758 71.933011)
-		(end 134.295769 81)
+		(start 172.351508 101.548011)
+		(end 163.284519 110.615)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 14)
 		(uuid "9b2e3189-bb62-4ea3-a6ea-d5e42ed5e386")
 	)
 	(segment
-		(start 143.362758 71.933011)
-		(end 143.362758 36.954011)
+		(start 172.351508 101.548011)
+		(end 172.351508 66.569011)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 14)
 		(uuid "a722c394-99ac-4840-9313-02e1935ae25c")
 	)
 	(via
-		(at 78.124553 61.926275)
+		(at 107.113303 91.541275)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29851,7 +29851,7 @@
 		(uuid "34412aa5-5da0-48bb-9e28-718cef92fba1")
 	)
 	(via
-		(at 78.124553 56.929275)
+		(at 107.113303 86.544275)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29859,7 +29859,7 @@
 		(uuid "482ed430-0f2e-4961-93e6-c5f4485dc4b3")
 	)
 	(via
-		(at 78.124553 41.938275)
+		(at 107.113303 71.553275)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29867,7 +29867,7 @@
 		(uuid "4ecce59e-a781-4886-b205-26c5312dc8da")
 	)
 	(via
-		(at 78.124553 36.941275)
+		(at 107.113303 66.556275)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29875,7 +29875,7 @@
 		(uuid "5c7ee6b2-af94-4026-8f37-4aea70147dfc")
 	)
 	(via
-		(at 78.124553 66.923275)
+		(at 107.113303 96.538275)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29883,7 +29883,7 @@
 		(uuid "5fa19dcc-f244-4ffb-aade-132282d823db")
 	)
 	(via
-		(at 78.124553 46.935275)
+		(at 107.113303 76.550275)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29891,7 +29891,7 @@
 		(uuid "6cdc807c-6c61-44ce-a1d7-aec3ba07de45")
 	)
 	(via
-		(at 78.124553 51.932275)
+		(at 107.113303 81.547275)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29899,7 +29899,7 @@
 		(uuid "85a041b8-34ec-4b95-ae07-eced5090a335")
 	)
 	(via
-		(at 78.124553 71.920275)
+		(at 107.113303 101.535275)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29907,39 +29907,39 @@
 		(uuid "b63912a6-93a6-4b27-b410-9b4ecd4dadd6")
 	)
 	(segment
-		(start 88.48 76.5)
-		(end 92.98 81)
+		(start 117.46875 106.115)
+		(end 121.96875 110.615)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 15)
 		(uuid "4318f749-d66d-4906-b434-b9e3b387956d")
 	)
 	(segment
-		(start 78.124553 71.920275)
-		(end 82.704278 76.5)
+		(start 107.113303 101.535275)
+		(end 111.693028 106.115)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 15)
 		(uuid "b521624c-f558-40cc-9e11-4004e6babbef")
 	)
 	(segment
-		(start 82.704278 76.5)
-		(end 88.48 76.5)
+		(start 111.693028 106.115)
+		(end 117.46875 106.115)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 15)
 		(uuid "dd2e23c2-487c-43ba-ab09-27e4bf5ca3c0")
 	)
 	(segment
-		(start 78.124553 71.920275)
-		(end 78.124553 36.941275)
+		(start 107.113303 101.535275)
+		(end 107.113303 66.556275)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 15)
 		(uuid "f0f890ac-4b06-4487-bbba-afdd1baba011")
 	)
 	(via
-		(at 82.792157 56.903804)
+		(at 111.780907 86.518804)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29947,7 +29947,7 @@
 		(uuid "400c8fb1-997c-43b0-be48-b10a2bff3c86")
 	)
 	(via
-		(at 82.792157 66.897804)
+		(at 111.780907 96.512804)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29955,7 +29955,7 @@
 		(uuid "5ffc5a27-bcaf-48df-bf20-7b0235a43d76")
 	)
 	(via
-		(at 82.792157 61.900804)
+		(at 111.780907 91.515804)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29963,7 +29963,7 @@
 		(uuid "6aebe1d0-51a1-4da5-96f6-7370109c472b")
 	)
 	(via
-		(at 82.792157 51.906804)
+		(at 111.780907 81.521804)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29971,7 +29971,7 @@
 		(uuid "89383307-81d9-4ed7-ba0b-4b4808785890")
 	)
 	(via
-		(at 82.792157 46.909804)
+		(at 111.780907 76.524804)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29979,7 +29979,7 @@
 		(uuid "baa199e4-aab3-4919-be6c-439a0367b0a6")
 	)
 	(via
-		(at 82.792157 36.915804)
+		(at 111.780907 66.530804)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29987,7 +29987,7 @@
 		(uuid "ca4b068f-a077-486c-a7e2-03f4685c7af9")
 	)
 	(via
-		(at 82.792157 41.912804)
+		(at 111.780907 71.527804)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -29995,7 +29995,7 @@
 		(uuid "f42d4b55-dafc-4960-a234-85f710d63d85")
 	)
 	(via
-		(at 82.792157 71.894804)
+		(at 111.780907 101.509804)
 		(size 0.8)
 		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
@@ -30003,392 +30003,392 @@
 		(uuid "faccd05b-749b-450c-987d-4abe0903194f")
 	)
 	(segment
-		(start 88.5 75)
-		(end 91 77.5)
+		(start 117.48875 104.615)
+		(end 119.98875 107.115)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 16)
 		(uuid "03acbea6-79c2-4743-8e7d-02cc92c5fc12")
 	)
 	(segment
-		(start 82.792157 71.894804)
-		(end 84.394804 71.894804)
+		(start 111.780907 101.509804)
+		(end 113.383554 101.509804)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 16)
 		(uuid "2d83b6e5-1be2-473a-b1b5-4f437cb623b1")
 	)
 	(segment
-		(start 84.394804 71.894804)
-		(end 87.5 75)
+		(start 113.383554 101.509804)
+		(end 116.48875 104.615)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 16)
 		(uuid "4a5833e6-0248-4900-9167-c460e5e47d28")
 	)
 	(segment
-		(start 92.02 77.5)
-		(end 95.52 81)
+		(start 121.00875 107.115)
+		(end 124.50875 110.615)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 16)
 		(uuid "d4be1dff-491b-49ad-b3a1-0bb2a7abfd45")
 	)
 	(segment
-		(start 87.5 75)
-		(end 88.5 75)
+		(start 116.48875 104.615)
+		(end 117.48875 104.615)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 16)
 		(uuid "d99112eb-ded6-4d91-91c6-837c2eee124d")
 	)
 	(segment
-		(start 91 77.5)
-		(end 92.02 77.5)
+		(start 119.98875 107.115)
+		(end 121.00875 107.115)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 16)
 		(uuid "e3f84983-0516-4b92-b2aa-e5d3258312c6")
 	)
 	(segment
-		(start 82.792157 36.915804)
-		(end 82.792157 71.894804)
+		(start 111.780907 66.530804)
+		(end 111.780907 101.509804)
 		(width 0.35)
 		(layer "B.Cu")
 		(net 16)
 		(uuid "fb713244-9e51-499b-8137-5d6269ab4615")
 	)
 	(segment
-		(start 150.42 35)
-		(end 143.35125 35)
+		(start 179.40875 64.615)
+		(end 172.34 64.615)
 		(width 0.35)
 		(layer "F.Cu")
 		(net 17)
 		(uuid "a287ff8e-21a4-4464-a789-7950a2a11d7a")
 	)
 	(segment
-		(start 73.46375 35.025)
-		(end 143.32625 35.025)
+		(start 102.4525 64.64)
+		(end 172.315 64.64)
 		(width 0.35)
 		(layer "F.Cu")
 		(net 17)
 		(uuid "dcb2550a-190d-44a0-924a-6309e7b419b2")
 	)
 	(segment
-		(start 143.35125 35)
-		(end 143.32625 35.025)
+		(start 172.34 64.615)
+		(end 172.315 64.64)
 		(width 0.35)
 		(layer "F.Cu")
 		(net 17)
 		(uuid "e032d85d-cc51-4866-bb09-f202082b4e84")
 	)
 	(segment
-		(start 143.32625 40.022)
-		(end 143.978 40.022)
+		(start 172.315 69.637)
+		(end 172.96675 69.637)
 		(width 0.35)
 		(layer "F.Cu")
 		(net 18)
 		(uuid "1f5b3bed-31b8-470f-b6d2-9509ee4d5c02")
 	)
 	(segment
-		(start 143.978 40.022)
-		(end 144 40)
+		(start 172.96675 69.637)
+		(end 172.98875 69.615)
 		(width 0.35)
 		(layer "F.Cu")
 		(net 18)
 		(uuid "41c0e624-ca92-41b7-88e2-302b1899f77b")
 	)
 	(segment
-		(start 144 40)
-		(end 150.42 40)
+		(start 172.98875 69.615)
+		(end 179.40875 69.615)
 		(width 0.35)
 		(layer "F.Cu")
 		(net 18)
 		(uuid "9df7de2d-907a-4965-8851-e52659056253")
 	)
 	(segment
-		(start 143.32625 40.022)
-		(end 73.46375 40.022)
+		(start 172.315 69.637)
+		(end 102.4525 69.637)
 		(width 0.35)
 		(layer "F.Cu")
 		(net 18)
 		(uuid "be761ad7-6a2c-48b0-9e70-2baad0e0cb7b")
 	)
 	(segment
-		(start 73.46375 45.019)
-		(end 143.32625 45.019)
+		(start 102.4525 74.634)
+		(end 172.315 74.634)
 		(width 0.35)
 		(layer "F.Cu")
 		(net 19)
 		(uuid "3c08a26d-a2ca-4945-9496-13bd6f998b61")
 	)
 	(segment
-		(start 150.5 45)
-		(end 143.34525 45)
+		(start 179.48875 74.615)
+		(end 172.334 74.615)
 		(width 0.35)
 		(layer "F.Cu")
 		(net 19)
 		(uuid "3f5b762e-daca-4e2f-88a8-4ff8c74ba2cd")
 	)
 	(segment
-		(start 143.34525 45)
-		(end 143.32625 45.019)
+		(start 172.334 74.615)
+		(end 172.315 74.634)
 		(width 0.35)
 		(layer "F.Cu")
 		(net 19)
 		(uuid "68c5af45-9aac-4aae-b8a2-61cf3460dc04")
 	)
 	(segment
-		(start 143.32625 50.016)
-		(end 73.46375 50.016)
+		(start 172.315 79.631)
+		(end 102.4525 79.631)
 		(width 0.35)
 		(layer "F.Cu")
 		(net 20)
 		(uuid "14f3f994-6793-4d80-91f5-d12398c38888")
 	)
 	(segment
-		(start 150.42 50)
-		(end 143.34225 50)
+		(start 179.40875 79.615)
+		(end 172.331 79.615)
 		(width 0.35)
 		(layer "F.Cu")
 		(net 20)
 		(uuid "35524fb9-d5ed-425d-b6de-436cd144db4c")
 	)
 	(segment
-		(start 143.34225 50)
-		(end 143.32625 50.016)
+		(start 172.331 79.615)
+		(end 172.315 79.631)
 		(width 0.35)
 		(layer "F.Cu")
 		(net 20)
 		(uuid "7a32e507-cfcf-4163-b90f-9a14a4634ffb")
 	)
 	(segment
-		(start 150.407 55.013)
-		(end 150.42 55)
+		(start 179.39575 84.628)
+		(end 179.40875 84.615)
 		(width 0.35)
 		(layer "F.Cu")
 		(net 21)
 		(uuid "025968a9-98b1-4f06-abde-0cc5c49dfe74")
 	)
 	(segment
-		(start 143.32625 55.013)
-		(end 150.407 55.013)
+		(start 172.315 84.628)
+		(end 179.39575 84.628)
 		(width 0.35)
 		(layer "F.Cu")
 		(net 21)
 		(uuid "95d3c29b-06b3-4bfd-a7dc-abff3b1aa3c2")
 	)
 	(segment
-		(start 73.46375 55.013)
-		(end 143.32625 55.013)
+		(start 102.4525 84.628)
+		(end 172.315 84.628)
 		(width 0.35)
 		(layer "F.Cu")
 		(net 21)
 		(uuid "c8b11c42-689c-4803-abed-ee5b83b9c9fe")
 	)
 	(segment
-		(start 143.32625 60.01)
-		(end 73.46375 60.01)
+		(start 172.315 89.625)
+		(end 102.4525 89.625)
 		(width 0.35)
 		(layer "F.Cu")
 		(net 22)
 		(uuid "67c96a48-a646-4141-8865-63ceb8c415f8")
 	)
 	(segment
-		(start 150.42 60)
-		(end 143.33625 60)
+		(start 179.40875 89.615)
+		(end 172.325 89.615)
 		(width 0.35)
 		(layer "F.Cu")
 		(net 22)
 		(uuid "819094b1-2c2e-4049-9c7b-a90c8d70d6bb")
 	)
 	(segment
-		(start 143.33625 60)
-		(end 143.32625 60.01)
+		(start 172.325 89.615)
+		(end 172.315 89.625)
 		(width 0.35)
 		(layer "F.Cu")
 		(net 22)
 		(uuid "d19155a1-089b-4df5-b6d1-a913d5c11bda")
 	)
 	(segment
-		(start 73.46375 65.007)
-		(end 143.32625 65.007)
+		(start 102.4525 94.622)
+		(end 172.315 94.622)
 		(width 0.35)
 		(layer "F.Cu")
 		(net 23)
 		(uuid "1ccbd5ea-b4b4-4890-8629-26ec603db13a")
 	)
 	(segment
-		(start 149.913 65.007)
-		(end 150.42 64.5)
+		(start 178.90175 94.622)
+		(end 179.40875 94.115)
 		(width 0.35)
 		(layer "F.Cu")
 		(net 23)
 		(uuid "9b9542c9-9bd5-49c8-bb5d-cd9008aaf5fa")
 	)
 	(segment
-		(start 143.32625 65.007)
-		(end 149.913 65.007)
+		(start 172.315 94.622)
+		(end 178.90175 94.622)
 		(width 0.35)
 		(layer "F.Cu")
 		(net 23)
 		(uuid "d8dd9b22-461f-4b31-bc75-504d972f3e2a")
 	)
 	(segment
-		(start 143.33025 70)
-		(end 143.32625 70.004)
+		(start 172.319 99.615)
+		(end 172.315 99.619)
 		(width 0.35)
 		(layer "F.Cu")
 		(net 24)
 		(uuid "55957696-a404-4655-b881-226d64d2ccd6")
 	)
 	(segment
-		(start 150.42 70)
-		(end 143.33025 70)
+		(start 179.40875 99.615)
+		(end 172.319 99.615)
 		(width 0.35)
 		(layer "F.Cu")
 		(net 24)
 		(uuid "6d7177cc-cfb2-4b56-8d5f-bcb2e8d3e4fa")
 	)
 	(segment
-		(start 143.32625 70.004)
-		(end 73.46375 70.004)
+		(start 172.315 99.619)
+		(end 102.4525 99.619)
 		(width 0.35)
 		(layer "F.Cu")
 		(net 24)
 		(uuid "9bbfc84f-f941-4c2a-8895-b7f76f9d8b43")
 	)
 	(segment
-		(start 169.5 61.28)
-		(end 169.3 61.28)
+		(start 198.48875 90.895)
+		(end 198.28875 90.895)
 		(width 0.35)
 		(layer "F.Cu")
 		(net 25)
 		(uuid "c47d2273-7029-463f-9e05-d3bcd6924d07")
 	)
 	(segment
-		(start 169.3 61.28)
-		(end 160.58 70)
+		(start 198.28875 90.895)
+		(end 189.56875 99.615)
 		(width 0.35)
 		(layer "F.Cu")
 		(net 25)
 		(uuid "caf2781b-ccd7-4655-9242-483d0ce7af40")
 	)
 	(segment
-		(start 169.5 58.74)
-		(end 163.74 64.5)
+		(start 198.48875 88.355)
+		(end 192.72875 94.115)
 		(width 0.35)
 		(layer "F.Cu")
 		(net 26)
 		(uuid "9b7bdc13-2b4d-455f-bcbb-64a82f6b706f")
 	)
 	(segment
-		(start 163.74 64.5)
-		(end 160.58 64.5)
+		(start 192.72875 94.115)
+		(end 189.56875 94.115)
 		(width 0.35)
 		(layer "F.Cu")
 		(net 26)
 		(uuid "d04a6516-4e23-44f9-9839-b68b8fd52b26")
 	)
 	(segment
-		(start 169.5 56.2)
-		(end 164.38 56.2)
+		(start 198.48875 85.815)
+		(end 193.36875 85.815)
 		(width 0.35)
 		(layer "F.Cu")
 		(net 27)
 		(uuid "6adf8bb6-e2a0-4c7c-beda-03c38809fa65")
 	)
 	(segment
-		(start 164.38 56.2)
-		(end 160.58 60)
+		(start 193.36875 85.815)
+		(end 189.56875 89.615)
 		(width 0.35)
 		(layer "F.Cu")
 		(net 27)
 		(uuid "9599746a-309d-417e-931d-c8c96910d667")
 	)
 	(segment
-		(start 160.58 55)
-		(end 168.16 55)
+		(start 189.56875 84.615)
+		(end 197.14875 84.615)
 		(width 0.35)
 		(layer "F.Cu")
 		(net 28)
 		(uuid "21774a36-b4ca-4447-b47d-b8ad7607f36c")
 	)
 	(segment
-		(start 168.16 55)
-		(end 169.5 53.66)
+		(start 197.14875 84.615)
+		(end 198.48875 83.275)
 		(width 0.35)
 		(layer "F.Cu")
 		(net 28)
 		(uuid "ee3dff61-8af5-41c2-b3cb-0c943faf79dc")
 	)
 	(segment
-		(start 168.38 50)
-		(end 160.58 50)
+		(start 197.36875 79.615)
+		(end 189.56875 79.615)
 		(width 0.35)
 		(layer "F.Cu")
 		(net 29)
 		(uuid "ad2d64b1-d7e2-4a12-a7fd-ec29f6bc1510")
 	)
 	(segment
-		(start 169.5 51.12)
-		(end 168.38 50)
+		(start 198.48875 80.735)
+		(end 197.36875 79.615)
 		(width 0.35)
 		(layer "F.Cu")
 		(net 29)
 		(uuid "fa9b4e89-1b22-4575-8135-b1257c1ae41e")
 	)
 	(segment
-		(start 160.66 45)
-		(end 165.92 45)
+		(start 189.64875 74.615)
+		(end 194.90875 74.615)
 		(width 0.35)
 		(layer "F.Cu")
 		(net 30)
 		(uuid "256e9997-dfc2-4eb2-8a24-d9842a68f2ff")
 	)
 	(segment
-		(start 165.92 45)
-		(end 169.5 48.58)
+		(start 194.90875 74.615)
+		(end 198.48875 78.195)
 		(width 0.35)
 		(layer "F.Cu")
 		(net 30)
 		(uuid "e8c1cd20-2fc0-44cd-bca1-d5a8cc612424")
 	)
 	(segment
-		(start 163.46 40)
-		(end 169.5 46.04)
+		(start 192.44875 69.615)
+		(end 198.48875 75.655)
 		(width 0.35)
 		(layer "F.Cu")
 		(net 31)
 		(uuid "ea0adef5-42f4-4c46-b94e-7f5719545020")
 	)
 	(segment
-		(start 160.58 40)
-		(end 163.46 40)
+		(start 189.56875 69.615)
+		(end 192.44875 69.615)
 		(width 0.35)
 		(layer "F.Cu")
 		(net 31)
 		(uuid "f9bf697b-49e0-4378-b4b7-f5a289a582a6")
 	)
 	(segment
-		(start 169.5 37)
-		(end 167.5 35)
+		(start 198.48875 66.615)
+		(end 196.48875 64.615)
 		(width 0.35)
 		(layer "F.Cu")
 		(net 32)
 		(uuid "45589d37-d03e-4827-8832-58ad5821ffeb")
 	)
 	(segment
-		(start 167.5 35)
-		(end 160.58 35)
+		(start 196.48875 64.615)
+		(end 189.56875 64.615)
 		(width 0.35)
 		(layer "F.Cu")
 		(net 32)
 		(uuid "5fa8d4ae-fe2e-4775-9571-76af5ea32f95")
 	)
 	(segment
-		(start 169.5 43.5)
-		(end 169.5 37)
+		(start 198.48875 73.115)
+		(end 198.48875 66.615)
 		(width 0.35)
 		(layer "F.Cu")
 		(net 32)
