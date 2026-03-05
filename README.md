@@ -11,8 +11,9 @@
    - Rows and columns multiplexed reducing pin usage
   
 2. Driver
-   Driver ICs attached to columns source current
-   Decade counters attached to rows handling scanning
+   - Driver ICs attached to columns source current
+   - Decade counters attached to rows handling scanning
+  
 3. Microcontroller
    - Generates clock signal
    - Updates frame buffer
