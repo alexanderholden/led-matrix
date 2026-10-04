@@ -22,6 +22,7 @@
 ## Renders
 
 - LED board
+<img width="1083" height="604" alt="image" src="https://github.com/user-attachments/assets/1879126f-ccc4-4895-b11e-ca3bb9950995" />
 
 - Driver board
 <img width="921" height="645" alt="image" src="https://github.com/user-attachments/assets/e2e02210-4048-4e83-9937-bbd171bfc217" />
