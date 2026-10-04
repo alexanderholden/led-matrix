@@ -1,11 +1,11 @@
 # LED matrix sign
 
-# Key features
+## Key features
   - Multiplexed LED matrix
   - Adjustable brightness
   - Custom PCB and hardware design
   - WiFi enabled to allow for on-demand display changes
-# System architecture
+## System architecture
 1. LED Matrix
    - LEDs arranged as an NxM grid
    - Rows and columns multiplexed reducing pin usage
@@ -18,3 +18,14 @@
    - Generates clock signal
    - Updates frame buffer
    - Wi-Fi server
+
+## Renders
+
+- LED board
+
+- Driver board
+<img width="921" height="645" alt="image" src="https://github.com/user-attachments/assets/e2e02210-4048-4e83-9937-bbd171bfc217" />
+
+
+  
+  
